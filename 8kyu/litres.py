@@ -1,5 +1,5 @@
 # Keep Hydrated!
-# https://www.codewars.com/kata/keep-hydrated-1/train/python
+# https://www.codewars.com/kata/keep-hydrated-1
 
 # My code
 litres = lambda time: time//2

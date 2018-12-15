@@ -1,5 +1,5 @@
 # Multiply
-# https://www.codewars.com/kata/multiply/train/python
+# https://www.codewars.com/kata/multiply
 
 # My code
 multiply = lambda a, b: a*b

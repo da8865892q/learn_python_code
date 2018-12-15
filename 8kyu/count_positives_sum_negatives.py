@@ -1,5 +1,5 @@
-# https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives/train/python
 # Count of positives / sum of negatives
+# https://www.codewars.com/kata/count-of-positives-slash-sum-of-negatives
 
 # My code
 def count_positives_sum_negatives(arr):

@@ -1,5 +1,5 @@
 # I love you, a little , a lot, passionately ... not at all
-# https://www.codewars.com/kata/i-love-you-a-little-a-lot-passionately-dot-dot-dot-not-at-all/train/python
+# https://www.codewars.com/kata/i-love-you-a-little-a-lot-passionately-dot-dot-dot-not-at-all
 
 # My code
 def how_much_i_love_you(nb_petals):
