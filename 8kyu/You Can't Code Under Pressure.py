@@ -5,4 +5,4 @@
 double_integer = lambda i: i*2
 
 # best code
-doubleInteger=(2).__mul__
+# doubleInteger=(2).__mul__
