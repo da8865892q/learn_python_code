@@ -1,5 +1,5 @@
 # Simple Fun #1: Seats in Theater
-# https://www.codewars.com/kata/simple-fun-number-1-seats-in-theater/train/python
+# https://www.codewars.com/kata/simple-fun-number-1-seats-in-theater
 
 # My code
 def seats_in_theater(tot_cols, tot_rows, col, row):
